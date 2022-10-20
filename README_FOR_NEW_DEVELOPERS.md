@@ -29,6 +29,33 @@ Testers repository http :- https://github.com/Jaipur-pink-panthers/Pink_Panthers
 
 Deployment repository http :- https://github.com/Jaipur-pink-panthers/pink-panther-deploy.git
 
+## Development of the website.
+
+The website is primarily built on HTML, CSS and Java Script languages.
+
+HTML - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
+
+CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
+
+Java Script - JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+
+Google Analytics - Google Analytics is a web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand
+
+## Testing of the website
+
+## Deployment of the website
+The deployment is done using github pages
+
+Amazon web services - Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+
+## Know Bugs
+Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+
+FAQ and Contact Us under Get Help is still under development.
+
+Links to our social media sites yet to be provided.
+
+The Navigation bar is unresponsive during the video runtime.
 
 ## Version History
 
