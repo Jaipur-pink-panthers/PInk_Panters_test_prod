@@ -34,6 +34,6 @@ Deployment repository http :- https://github.com/Jaipur-pink-panthers/pink-panth
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change](https://github.com/Jaipur-pink-panthers/Pink_Panthers.github.io/commits/main) or See [release history]()
+    * See [commit change](https://github.com/Jaipur-pink-panthers/Pink_Panthers.github.io/commits/main) 
 * 0.1
     * Initial Release
