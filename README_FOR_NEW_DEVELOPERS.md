@@ -43,6 +43,8 @@ Google Analytics - Google Analytics is a web analytics service offered by Google
 
 ## Testing of the website
 
+Discover vulnerabilities across a codebase with CodeQL, our industry-leading semantic code analysis engine. CodeQL lets you query code as though it were data
+
 ## Deployment of the website
 The deployment is done using github pages
 
